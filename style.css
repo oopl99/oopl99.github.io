@@ -15,7 +15,7 @@
     font-weight: 700;
     text-transform: uppercase;
     color: white;
-    padding-top: 300px;
+    padding-top: 30vh;
     clear: both;
 }
 
@@ -57,7 +57,7 @@ span{
 #aboutword{
     text-align: center;
     text-transform: uppercase;
-    padding-top: 250px;
+    padding-top: 25vh;
     color: #7c7c7c;
     font-size: 20px;'
     font-weight: 500;
@@ -68,8 +68,8 @@ span{
     text-align: center;
     font-size: 75px;
     font-weight: 1;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    padding-top: 3vh;
+    padding-bottom: 1vh;
 }
 
 #line{
@@ -85,6 +85,7 @@ span{
     text-align: center;
     font-size: 35px;
     color: black;
+<<<<<<< HEAD
     padding-top: 50px;
     margin-right: 100px;
     margin-left: 100px;
@@ -135,6 +136,9 @@ span{
 }
 
 
+=======
+    padding-top: 5vh;
+>>>>>>> origin/master
 }
 
 
@@ -143,7 +147,7 @@ span{
 #roboknights{
     float: left;
     margin-right: 50%;
-    margin-left: 1%;
+    margin-left: 0%;
     font-size: 40px;
     position: absolute;
     opacity: 0;
@@ -177,7 +181,7 @@ span{
 
 #programming{
     float: right;
-    margin-right: 1%;
+    margin-right: 0%;
     margin-left: 50%;
     font-size: 40px;
     position: absolute;
@@ -215,7 +219,7 @@ span{
 #hackathons{
     float: left;
     margin-right: 50%;
-    margin-left: 1%;
+    margin-left: 0%;
     font-size: 40px;
     position: absolute;
     opacity: 0;
@@ -246,7 +250,7 @@ span{
 
 #gaming{
     float: right;
-    margin-right: 1%;
+    margin-right: 0%;
     margin-left: 50%;
     font-size: 40px;
     position: absolute;
