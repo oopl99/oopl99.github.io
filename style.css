@@ -15,11 +15,7 @@
     font-weight: 700;
     text-transform: uppercase;
     color: white;
-<<<<<<< HEAD
     padding-top: 300px;
-=======
-    padding-top: 30vh;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     clear: both;
 }
 
@@ -61,11 +57,7 @@ span{
 #aboutword{
     text-align: center;
     text-transform: uppercase;
-<<<<<<< HEAD
     padding-top: 250px;
-=======
-    padding-top: 25vh;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     color: #7c7c7c;
     font-size: 20px;'
     font-weight: 500;
@@ -76,13 +68,8 @@ span{
     text-align: center;
     font-size: 75px;
     font-weight: 1;
-<<<<<<< HEAD
     padding-top: 30px;
     padding-bottom: 10px;
-=======
-    padding-top: 3vh;
-    padding-bottom: 1vh;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
 }
 
 #line{
@@ -98,10 +85,6 @@ span{
     text-align: center;
     font-size: 35px;
     color: black;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     padding-top: 50px;
     margin-right: 100px;
     margin-left: 100px;
@@ -112,32 +95,19 @@ span{
     margin-left: 0px;
     margin-right: 0px;
     height: 10vh;
-<<<<<<< HEAD
     background-color: black;
-=======
-    background-color: #13f4f4;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
 }
 
 #poem{
     margin-left: 0px;
     margin-right: 0px;  
     background-size: cover;
-<<<<<<< HEAD
     height: 250vh;
     background-color: black;
 }
 
 #poemtitle{
    color: white;
-=======
-    height: 90vh;
-    background-color: #f0feff;
-}
-
-#poemtitle{
-   color: black;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     text-align: center;
     font-size: 75px;
     font-weight: 1;
@@ -148,11 +118,7 @@ span{
 #explanation{
     text-align: center;
     font-size: 35px;
-<<<<<<< HEAD
     color: white;
-=======
-    color: black;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     padding-top: 50px;
     margin-right: 100px;
     margin-left: 100px;
@@ -162,17 +128,12 @@ span{
 #email{
      text-align: center;
     font-size: 50px;
-<<<<<<< HEAD
     color: white;
-=======
-    color: black;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     padding-top: 50px;
     margin-right: 100px;
     margin-left: 100px;
 }
 
-<<<<<<< HEAD
 #explanationspan{
     display: inline-block;
     padding: 20px;  
@@ -182,12 +143,6 @@ span{
 
 
 
-=======
-
-=======
-    padding-top: 5vh;
->>>>>>> origin/master
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
 }
 
 
@@ -196,11 +151,7 @@ span{
 #roboknights{
     float: left;
     margin-right: 50%;
-<<<<<<< HEAD
     margin-left: 1%;
-=======
-    margin-left: 0%;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     font-size: 40px;
     position: absolute;
     opacity: 0;
@@ -234,11 +185,7 @@ span{
 
 #programming{
     float: right;
-<<<<<<< HEAD
     margin-right: 1%;
-=======
-    margin-right: 0%;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     margin-left: 50%;
     font-size: 40px;
     position: absolute;
@@ -276,11 +223,7 @@ span{
 #hackathons{
     float: left;
     margin-right: 50%;
-<<<<<<< HEAD
     margin-left: 1%;
-=======
-    margin-left: 0%;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     font-size: 40px;
     position: absolute;
     opacity: 0;
@@ -311,11 +254,7 @@ span{
 
 #gaming{
     float: right;
-<<<<<<< HEAD
     margin-right: 1%;
-=======
-    margin-right: 0%;
->>>>>>> parent of c279ff2... Revert "Repurposed for Geers Project"
     margin-left: 50%;
     font-size: 40px;
     position: absolute;
