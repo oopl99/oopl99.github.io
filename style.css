@@ -2,20 +2,19 @@
     margin-top: 0px;
     margin-left: 0px;
     margin-right: 0px;
-    background-image: url(grass.jpg);
+    background-image: url(logo.jpg);
     background-size: cover;
+    background-position: center;
     height: 100vh;
 }
 
-
-
 #title{
     text-align: center;
-    font-size: 72px;
+    font-size: 75px;
     font-weight: 700;
     text-transform: uppercase;
     color: white;
-    padding-top: 300px;
+    padding-top: 30vh;
     clear: both;
 }
 
@@ -27,7 +26,7 @@
     text-transform: uppercase;
     color: white;
     letter-spacing: 3px;
-    padding-top: 10px;
+    padding-top: 15 px;
 }
 
 #hyperlink{
@@ -102,7 +101,7 @@ span{
     margin-left: 0px;
     margin-right: 0px;  
     background-size: cover;
-    height: 250vh;
+    height: 800vh;
     background-color: black;
 }
 
